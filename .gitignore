@@ -1,1 +1,5 @@
 /.idea/
+/PowerConsole-Scala/target/
+/PowerConsole-Scala/project/target/
+/PowerConsole-Scala/.idea/
+/PowerConsole-Scala/.bsp/
